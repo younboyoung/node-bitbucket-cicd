@@ -1,0 +1,14 @@
+{
+  "name": "bitbucket-cicd",
+  "version": "1.0.0",
+  "description": "Test Node.Js Project for Bitbucket CI/CD and Slack Integretion ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
